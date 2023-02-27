@@ -1,3 +1,11 @@
+
+/*
+Titik.java 23/09/11
+Penulis   : Ririn Indah Cahyani - 24060121130069
+Deskripsi : kelas yang berisi program Titik yang mengeksekusi beberapa kosntruktor dan method
+*/
+
+
 class Titik {
 	double absis;
 	double ordinat;
