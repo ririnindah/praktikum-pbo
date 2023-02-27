@@ -1,3 +1,9 @@
+/*
+MTitik.java 23/09/11
+Penulis   : Ririn Indah Cahyani - 24060121130069
+Deskripsi : kelas yang berisi program utama yang emmanfaatkn kelaas Titik
+*/
+
 class MTitik
 {
 
