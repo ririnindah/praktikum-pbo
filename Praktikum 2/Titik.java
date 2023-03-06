@@ -1,3 +1,10 @@
+/*
+Titik.java 23/03/01
+Penulis   : Ririn Indah Cahyani - 24060121130069
+Lab 	  : Praktikum PBO B1
+Deskripsi : kelas yang berisi program Titik yang mengeksekusi beberapa kosntruktor dan method
+*/
+
 class Titik {
 	private double absis;
 	private double ordinat;
