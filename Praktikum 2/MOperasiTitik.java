@@ -1,3 +1,10 @@
+/*
+MOperasiTitik.java 23/03/06
+Penulis   : Ririn Indah Cahyani - 24060121130069
+Lab 	  : Praktikum PBO B1
+Deskripsi : sebuah program main untuk mengeksekusi program class OperasiTitik.java
+*/
+
 public class MOperasiTitik{
 	public static void main(String[] args) {
 
