@@ -1,5 +1,5 @@
 /* 
-* File    : DiskonLambda.java 04/06/2023
+* File    : LambdaHashmap.java 04/06/2023
 * Penulis : Ririn Indah Cahyani - 24060121130069
 * Lab     : PBO B1
 * Deskripsi : Implementasi lambda pada Map, digunakan sebagai parameter pada method
